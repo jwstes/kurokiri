@@ -3,3 +3,12 @@ pypandoc
 openpyxl
 python-pptx
 pymupdf
+transformers
+librosa
+soundfile
+torch
+torchvision
+accelerate
+qwen-vl-utils[decord]==0.0.8
+safetensors
+bitsandbytes
