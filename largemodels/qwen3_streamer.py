@@ -9,7 +9,7 @@ from transformers import (
 )
 
 # Default config
-DEFAULT_MODEL_NAME = "Qwen/Qwen3-4B-Thinking-2507"
+DEFAULT_MODEL_NAME = "Qwen/Qwen3-30B-A3B-Thinking-2507"
 END_OF_THINK_TOKEN_ID = 151668
 
 # Globals for reuse
